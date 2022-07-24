@@ -1,4 +1,4 @@
-public class Number {
+public class _1_Number {
     public static void main(String[] args) {
         // 1. 정수. long 타입은 L접미사 필수
         int age = 10;

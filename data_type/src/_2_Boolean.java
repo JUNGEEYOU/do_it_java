@@ -1,4 +1,4 @@
-public class Boolean {
+public class _2_Boolean {
     public static void main(String[] args) {
         // 예시 1
         int base = 180;

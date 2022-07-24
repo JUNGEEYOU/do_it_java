@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82e36e97-d9d2-4f2e-acc5-aab196211922" name="Changes" comment="3.자료형 - 1) 숫자형">
-      <change afterPath="$PROJECT_DIR$/data_type/src/Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_type/src/_3_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_type/src/_4_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_type/src/Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/data_type/src/_2_Boolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_type/src/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/data_type/src/_1_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,30 +36,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Boolean">
-    <configuration name="Boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Boolean" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._4_String">
+    <configuration name="_1_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1_Number" />
       <module name="data_type" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number" />
+    <configuration name="_2_Boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2_Boolean" />
+      <module name="data_type" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_3_Char" />
+      <module name="data_type" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_4_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_String" />
       <module name="data_type" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,8 +86,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Boolean" />
-        <item itemvalue="Application.Number" />
+        <item itemvalue="Application._4_String" />
+        <item itemvalue="Application._3_Char" />
+        <item itemvalue="Application._2_Boolean" />
+        <item itemvalue="Application._1_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -76,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658474971729</updated>
       <workItem from="1658474973106" duration="2462000" />
+      <workItem from="1658666342758" duration="1364000" />
     </task>
     <task id="LOCAL-00001" summary="3.자료형 - 1) 숫자형">
       <created>1658479752038</created>
