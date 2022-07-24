@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82e36e97-d9d2-4f2e-acc5-aab196211922" name="Changes" comment="3.자료형 - 1) 숫자형">
-      <change afterPath="$PROJECT_DIR$/data_type/src/_3_Char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_type/src/_4_String.java" afterDir="false" />
+    <list default="true" id="82e36e97-d9d2-4f2e-acc5-aab196211922" name="Changes" comment="3. char, 4. String 추가">
+      <change afterPath="$PROJECT_DIR$/data_type/src/_5_StringBuffer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_type/src/Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/data_type/src/_2_Boolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_type/src/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/data_type/src/_1_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._4_String">
+  <component name="RunManager" selected="Application._5_StringBuffer">
     <configuration name="_1_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1_Number" />
       <module name="data_type" />
@@ -84,8 +80,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_5_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_5_StringBuffer" />
+      <module name="data_type" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._5_StringBuffer" />
         <item itemvalue="Application._4_String" />
         <item itemvalue="Application._3_Char" />
         <item itemvalue="Application._2_Boolean" />
@@ -102,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658474971729</updated>
       <workItem from="1658474973106" duration="2462000" />
-      <workItem from="1658666342758" duration="1364000" />
+      <workItem from="1658666342758" duration="2031000" />
     </task>
     <task id="LOCAL-00001" summary="3.자료형 - 1) 숫자형">
       <created>1658479752038</created>
@@ -111,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658479752038</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3. char, 4. String 추가">
+      <created>1658667958638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658667958639</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3.자료형 - 1) 숫자형" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.자료형 - 1) 숫자형" />
+    <MESSAGE value="3. char, 4. String 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="3. char, 4. String 추가" />
   </component>
 </project>
